@@ -23,7 +23,7 @@ const About = (props) => {
             </li>
           );
         })}
-        <div style={{fontSize:"20px", marginTop:5}}>Click here to: <Button href={resumeFile} download sx={{textTransform:"capitalize", fontSize:"20px"}}>Download CV</Button></div>
+        <div style={{fontSize:"20px", marginTop:5}}>Click here to: <Button href={resumeFile} download sx={{textTransform:"capitalize", fontSize:"20px"}}>Download Resume</Button></div>
       </div>
     </div>
   );
