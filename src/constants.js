@@ -16,10 +16,6 @@ export const headersArray = [
     value: "skills",
   },
   {
-    label: "Projects",
-    value: "projects",
-  },
-  {
     label: "Contact",
     value: "contact",
   },
